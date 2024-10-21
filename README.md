@@ -66,5 +66,5 @@ CD/CI
 
 
 ## Об авторе:
-Леонид Агалаков - python backend developer
+Кирилл Сафронов - python backend developer
 `https://github.com/EmpIreR777/taski-docker/tree/main`
